@@ -21,7 +21,7 @@
 
 | 🔹 Feature            | 🧩 Description |
 |----------------------|----------------|
-| **Secure Onboarding** | Aadhaar OCR Verification to block fake users |
+| **Secure Onboarding** | OCR Verification to block fake users |
 | **VoiceMatch**        | Voice-based onboarding using Omnidim assistant |
 | **AI Matching Engine**| SBERT + cosine similarity + custom logic |
 | **MatchMeter**        | Top 5 matches with visual score breakdown |

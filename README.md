@@ -103,10 +103,10 @@ artifacts/   - Saved encoder, scaler, embeddings
 
 | Member        | Role                        |
 | ------------- | --------------------------- |
-| Lekhni Bakiwal       | Voice Match + ML + OCR      |
-| \[Teammate 2] | Frontend (React + Tailwind) |
-| \[Teammate 3] | Chat + Admin Panel          |
-| \[Teammate 4] | StyleMatch + Integration    |
+| Lekhni Bakiwal | Voice Match + ML + OCR      |
+|Suhani Gupta | Frontend (React + Tailwind) |
+| Nnadani Goyal | Chat + Admin Panel          |
+
 
 ---
 

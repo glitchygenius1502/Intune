@@ -1,5 +1,5 @@
 # 🎧 InTune – AI Roommate Compatibility Platform  
-*A SheBuilds 2025 Hackathon Project by Team Naruto*
+*A SheBuilds 2025 Hackathon Project by Team Saarthi*
 
 ![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
 ![Firebase](https://img.shields.io/badge/Auth-Firebase-orange?logo=firebase)

@@ -38,7 +38,7 @@
 
 ```mermaid
 graph TD
-A[Landing Page + Signup] --> B[OCR Aadhaar Verification]
+A[Landing Page + Signup] --> B[OCR Verification]
 B --> C[Voice Survey via Omnidim]
 C --> D[Webhook to Express.js Backend]
 D --> E[ML Matching Engine]
